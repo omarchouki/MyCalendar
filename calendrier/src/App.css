@@ -1,0 +1,21 @@
+.main {
+  background-color: #8EC5FC;
+  background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+  width: 100%;
+  height: 100%; 
+}
+.calendar-container {
+ height: 80%;
+ margin: 50px;
+}
+
+.title {
+  margin-top: 0;
+  text-align: left;
+  padding-left: 50px;
+}
+
+.modal-overlay {
+  z-index: 10;
+  background-color: #E0C3FC;
+}
